@@ -271,3 +271,10 @@ Acknowledgements
 Thanks to [J. C. Phillipps](http://www.jcphillipps.com) for the Ramda logo.
 Ramda logo artwork &copy; 2014 J. C. Phillipps. Licensed Creative Commons 
 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+
+
+Dummy change not to be merged
+-----------------------------
+
+Just a sample commit / PR.
